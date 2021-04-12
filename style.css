@@ -1,0 +1,21 @@
+.labels{
+    color:yellow;
+    font-size:15;
+    font-weight: bold;
+    }
+    
+    body {
+        background-color: rgb(114, 112, 110);
+    color:white;
+    }
+    
+    .heading {
+        width : 80%;
+        font-size:25;
+    }
+    
+    #camera {
+    border: 2px dashed black;
+    width:300px;
+    height:300px;
+    }
